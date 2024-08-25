@@ -15,3 +15,12 @@ different type of operators
 5
 VAR SUPPORTS HOISTING BUT LET DOESNT SUPPORT HOISTING
 VAR ALLOW REASSIGN WHERE LET DOESNT
+
+6 & 7
+array and oject
+
+8
+normal function & arrayfunctin
+
+15 higher order function 
+it is function return another function as result

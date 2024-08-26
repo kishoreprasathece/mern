@@ -250,13 +250,98 @@
 // console.log(res);
 
 
+//
+//18=switch
+// let order =0;
+// let msg;
+
+// switch(order){
+//     case 1:
+//     msg= "ordered mac";
+//     break;
+// case 2:
+// msg= "ordered iphone"
+// break;
+// default:
+//     msg= "invalid entry"
+// break;
+// }
+// console.log(msg);
+
+// 
+
+// let result ="tm";
+// let msg;
+// switch(result){
+// case "tom":
+// msg= "788"
+// break;
+// case "Elis":
+// msg= "993"
+// break;
+// default:
+// msg= "enter valid info"
+// break;
+// }
+// console.log(msg);
+
+// let login = "tom"
+// let msg;
+// switch(login){
+//     case "tom":
+//     msg = "login ok";
+//     break;
+//     case "ellis":
+//     msg = "login ok";
+//     break;
+//     case "rick":
+//     msg = "login ok";
+//     break;
+//     default:
+//         msg ="invalid";
+// }
+
+// console.log(msg);
 
 
+// let loginid = "walter"
+// let password = 77
+// let msg; 
+// switch(loginid,password){
+//     case "tom",10:
+//         msg ="login successful";
+//         break;
+//         case "rick",11:
+//         msg ="login successful";
+//         break;
+//         case "lucy",99:
+//         msg ="login successful";
+//         break;
+//         default:
+//             msg="invalid";
+//             break;
+//         }
+//         console.log(msg);
+        
 
 
+// let loginid="kishore";
+// const res = loginid=="kishore" ? "success": "invalid";
+// console.log(res);
 
+// let searchabove=1000;
+// const res= searchabove==1000 ? "showabove1000" : "notfound";
+// console.log(res);
 
+// for(i=9; i<15; i++){
+// console.log("i",i);
 
+// }
+
+// for(let i=10; i<12; i++){
+//     console.log("i",i);
+    
+// }
 
 
 

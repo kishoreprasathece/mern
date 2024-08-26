@@ -24,3 +24,7 @@ normal function & arrayfunctin
 
 15 higher order function 
 it is function return another function as result
+
+18
+swtich
+with example programs

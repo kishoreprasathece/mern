@@ -343,12 +343,63 @@
     
 // }
 
+//top and bottom function
+// function top(){
+// console.log("top fun");
+
+// }
+// function bottom(){
+//     console.log("bot fun")
+// }
+
+// bottom();
+// top();
+
+
+//array
+
+// let arr=[0,1,2,3,4,5,6,7];
+// console.log(arr);
+
+// arr.push(999);
+// console.log(arr);
+// arr.pop();
+// console.log(arr);
+// arr.unshift(777);
+// console.log(arr);
+// arr.shift();
+// console.log(arr);
+
+// let arr=[0,1,2,3,4,5,6];
+// arr.splice(1,4,99);
+// console.log;(arr);
+
+// let arr=[123,24,125,126,127];
+// arr.splice(0,4,99);
+//  console.log(arr);
+//  const newarr=arr.splice(0,)
+// console.log(newarr);
 
 
 
+// function dis(){
+// console.log("avaliable model");
 
+// }
 
+// function model(callback){
+//     console.log("apple");
+//      Callback();
+    
+//     return function nam(){
+// console.log(15);
 
+//     }
+    
+// }
+// //model()
+// let modelnam = model(dis());
+// modelnam();
 
 
 

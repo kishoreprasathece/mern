@@ -28,3 +28,5 @@ it is function return another function as result
 18
 swtich
 with example programs
+
+19 - top and bottom function

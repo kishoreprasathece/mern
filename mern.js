@@ -402,9 +402,114 @@
 // modelnam();
 
 
+// let looping=[0,10,101,33]
+// looping.forEach((item,index)=>{
+//     console.log(item);
+    
+// })
+
+// let looping=[["tom",20],["rick",22],["reese",29]]
+// looping.forEach(([NAME,AGE])=>{
+// console.log(NAME);
+// console.log(AGE);
+// console.log(`${NAME}=${AGE}`);
 
 
+// });
+
+// let looping=["tshirt","jogger"]
+// looping.forEach((product,list)=>{
+// console.log(product);
+
+// });
+
+// let looping=[["tshirt",99],["jogger",79]]
+// looping.forEach((proname,price)=>{
+// console.log(`${proname}=${price}`);
 
 
+// })
 
 
+// let iphone=[11,12,13,14,15]
+// iphone.forEach((iphone)=>{
+   
+// console.log(iphone);
+
+// });
+
+// let number=[99,44,44,55,66,88];
+// let addnumber=number.map((a)=>{
+//     return a+a;
+
+// })
+// console.log(addnumber);
+// console.log(`${number}=${addnumber}`);
+
+// const name=["tommy","abarama","littlefinger"];
+// const age=name.map((name)=>{
+// if(name=="tommy")
+//     return 45;
+// if(name=="abarama")
+//     return 47;
+// if(name=="littlefinger")
+//     return 66;
+// else
+// return notvalid;
+// });
+// console.log(age);
+
+
+// let price=[10000,13000,699999,800,12000,14000];
+// const filPRICE= price.filter(i=>i<1000)
+//     console.log(filPRICE);
+    
+
+
+// const product=[{
+//     model:"apple",
+//     series:15,
+//     price:89000,
+// },
+// {
+//     model:"apple",
+//     series:11,
+//     price:99000,
+// },
+// {
+//     model:"apple",
+//     series:14,
+//     price:110000,
+// },
+// {
+//     model:"samsung",
+//     series:13,
+//     price:9000,
+// },
+// {
+//     model:"samsung",
+//     series:12,
+//     price:8000,
+// },
+// {
+//     model:"saamsung",
+//     series:11,
+// //     price:89000,
+// // },
+// // { 
+// //     model:"samsung",
+// //     series:"9pro",
+// //     price:8900,
+// // }]
+ 
+// // product.forEach((item)=>{
+// // console.log(product);
+
+// // })
+// // let price= product.map((item)=>{
+// // if(i>19000);
+// // return item;
+// // else
+// // null;
+// // })
+// console.log(price);
